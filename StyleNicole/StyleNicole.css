@@ -18,16 +18,25 @@ html {
 {
     border: solid 1px green;
     font-size: 20px;
+    width: 50%;
 }
 
 .container-logo
 {
-    
+    position : absolute;
+    top: 0px;
+    left: 0px;
 }
 
 .illustration 
 {   
     margin-top: 0px;
+    width: 100%;
+}
+
+.illustration img
+{
+    width: 100%;
 }
 
 
@@ -35,5 +44,6 @@ html {
 {
     border: solid 1px purple;
     font-size: 40px;
+    width: 50%;
 
 }
